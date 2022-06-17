@@ -1,6 +1,7 @@
 # Local-global 2022
 
 Copyright (C) 2021, Manel Vila-Vidal
+
 Contact details: m@vila-vidal.com / manel.vila-vidal@upf.edu
 
 If you use the source code, please make sure to reference both the package and the paper:
